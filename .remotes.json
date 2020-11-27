@@ -6,10 +6,34 @@
     "from": "roblog"
   },
   {
+    "package": "hugodown",
+    "url": "https://github.com/r-lib/hugodown",
+    "via": ["goodpress"],
+    "from": "goodpress"
+  },
+  {
     "package": "lockedatapkg",
     "url": "https://github.com/lockedatapublished/lockedatapkg",
     "via": ["cransays"],
     "from": "cransays"
+  },
+  {
+    "package": "slugify",
+    "url": "https://github.com/hrbrmstr/slugify",
+    "via": ["goodpress"],
+    "from": "goodpress"
+  },
+  {
+    "package": "vcr",
+    "url": "https://github.com/ropensci/vcr",
+    "via": ["goodpress"],
+    "from": "goodpress"
+  },
+  {
+    "package": "webmockr",
+    "url": "https://github.com/ropensci/webmockr",
+    "via": ["goodpress", "vcr"],
+    "from": "goodpress"
   },
   {
     "package": "xml2",

@@ -43,9 +43,29 @@
 	url = https://github.com/ropensci/crul
 	shallow = true
 	registered = false
+[submodule "hugodown"]
+	path = hugodown
+	url = https://github.com/r-lib/hugodown
+	shallow = true
+	registered = false
 [submodule "lockedatapkg"]
 	path = lockedatapkg
 	url = https://github.com/lockedatapublished/lockedatapkg
+	shallow = true
+	registered = false
+[submodule "slugify"]
+	path = slugify
+	url = https://github.com/hrbrmstr/slugify
+	shallow = true
+	registered = false
+[submodule "vcr"]
+	path = vcr
+	url = https://github.com/ropensci/vcr
+	shallow = true
+	registered = false
+[submodule "webmockr"]
+	path = webmockr
+	url = https://github.com/ropensci/webmockr
 	shallow = true
 	registered = false
 [submodule "xml2"]
