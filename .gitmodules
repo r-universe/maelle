@@ -63,11 +63,6 @@
 	url = https://github.com/ropensci/vcr
 	shallow = true
 	registered = false
-[submodule "webmockr"]
-	path = webmockr
-	url = https://github.com/ropensci/webmockr
-	shallow = true
-	registered = false
 [submodule "xml2"]
 	path = xml2
 	url = https://github.com/r-lib/xml2
