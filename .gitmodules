@@ -45,6 +45,11 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "crul"]
+	path = crul
+	url = https://github.com/ropensci/crul
+	shallow = true
+	registered = false
 [submodule "lockedatapkg"]
 	path = lockedatapkg
 	url = https://github.com/lockedatapublished/lockedatapkg

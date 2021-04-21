@@ -1,5 +1,11 @@
 [
   {
+    "package": "crul",
+    "url": "https://github.com/ropensci/crul",
+    "via": ["roblog"],
+    "from": "roblog"
+  },
+  {
     "package": "lockedatapkg",
     "url": "https://github.com/lockedatapublished/lockedatapkg",
     "via": ["cransays"],
