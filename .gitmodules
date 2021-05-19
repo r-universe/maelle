@@ -45,3 +45,13 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "lockedatapkg"]
+	path = lockedatapkg
+	url = https://github.com/lockedatapublished/lockedatapkg
+	shallow = true
+	registered = false
+[submodule "xml2"]
+	path = xml2
+	url = https://github.com/r-lib/xml2
+	shallow = true
+	registered = false
