@@ -1,0 +1,25 @@
+[
+  {
+    "package": "riem",
+    "oncran": true
+  },
+  {
+    "package": "tinkr"
+  },
+  {
+    "package": "rtimicropem",
+    "oncran": true
+  },
+  {
+    "package": "goodpress"
+  },
+  {
+    "package": "cransays"
+  },
+  {
+    "package": "roblog"
+  },
+  {
+    "package": "rodev"
+  }
+]
