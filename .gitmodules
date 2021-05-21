@@ -7,43 +7,36 @@
 	path = riem
 	url = https://github.com/ropensci/riem
 	shallow = true
-	branch = master
 	registered = true
 [submodule "tinkr"]
 	path = tinkr
 	url = https://github.com/ropensci/tinkr
 	shallow = true
-	branch = master
 	registered = true
 [submodule "rtimicropem"]
 	path = rtimicropem
 	url = https://github.com/ropensci/rtimicropem
 	shallow = true
-	branch = master
 	registered = true
 [submodule "goodpress"]
 	path = goodpress
 	url = https://github.com/maelle/goodpress
 	shallow = true
-	branch = master
 	registered = true
 [submodule "cransays"]
 	path = cransays
 	url = https://github.com/lockedata/cransays
 	shallow = true
-	branch = master
 	registered = true
 [submodule "roblog"]
 	path = roblog
 	url = https://github.com/ropenscilabs/roblog
 	shallow = true
-	branch = master
 	registered = true
 [submodule "rodev"]
 	path = rodev
 	url = https://github.com/ropenscilabs/rodev
 	shallow = true
-	branch = master
 	registered = true
 [submodule "crul"]
 	path = crul
