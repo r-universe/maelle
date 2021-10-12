@@ -18,6 +18,21 @@
 	url = https://github.com/ropensci/rtimicropem
 	shallow = true
 	registered = true
+[submodule "goodpress"]
+	path = goodpress
+	url = https://github.com/maelle/goodpress
+	shallow = true
+	registered = true
+[submodule "cransays"]
+	path = cransays
+	url = https://github.com/lockedata/cransays
+	shallow = true
+	registered = true
+[submodule "roblog"]
+	path = roblog
+	url = https://github.com/ropenscilabs/roblog
+	shallow = true
+	registered = true
 [submodule "rodev"]
 	path = rodev
 	url = https://github.com/ropenscilabs/rodev
