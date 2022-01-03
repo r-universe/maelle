@@ -3,21 +3,6 @@
 	url = https://github.com/maelle/universe
 	shallow = true
 	branch = HEAD
-[submodule "riem"]
-	path = riem
-	url = https://github.com/ropensci/riem
-	shallow = true
-	registered = true
-[submodule "tinkr"]
-	path = tinkr
-	url = https://github.com/ropensci/tinkr
-	shallow = true
-	registered = true
-[submodule "rtimicropem"]
-	path = rtimicropem
-	url = https://github.com/ropensci/rtimicropem
-	shallow = true
-	registered = true
 [submodule "goodpress"]
 	path = goodpress
 	url = https://github.com/maelle/goodpress
