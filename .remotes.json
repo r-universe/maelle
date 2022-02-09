@@ -12,12 +12,6 @@
     "from": "goodpress"
   },
   {
-    "package": "lockedatapkg",
-    "url": "https://github.com/lockedatapublished/lockedatapkg",
-    "via": ["cransays"],
-    "from": "cransays"
-  },
-  {
     "package": "slugify",
     "url": "https://github.com/hrbrmstr/slugify",
     "via": ["goodpress"],
