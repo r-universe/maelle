@@ -23,11 +23,6 @@
 	url = https://github.com/ropenscilabs/rodev
 	shallow = true
 	registered = true
-[submodule "crul"]
-	path = crul
-	url = https://github.com/ropensci/crul
-	shallow = true
-	registered = false
 [submodule "hugodown"]
 	path = hugodown
 	url = https://github.com/r-lib/hugodown
