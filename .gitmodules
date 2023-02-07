@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/maelle/universe
+	url = https://github.com/maelle/maelle.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "goodpress"]
