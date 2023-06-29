@@ -1,45 +1,32 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/maelle/maelle.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "goodpress"]
 	path = goodpress
 	url = https://github.com/maelle/goodpress
-	shallow = true
-	registered = true
 [submodule "cransays"]
 	path = cransays
 	url = https://github.com/lockedata/cransays
-	shallow = true
-	registered = true
 [submodule "roblog"]
 	path = roblog
 	url = https://github.com/ropenscilabs/roblog
-	shallow = true
-	registered = true
 [submodule "rodev"]
 	path = rodev
 	url = https://github.com/ropenscilabs/rodev
-	shallow = true
-	registered = true
 [submodule "hugodown"]
 	path = hugodown
 	url = https://github.com/r-lib/hugodown
-	shallow = true
 	registered = false
 [submodule "slugify"]
 	path = slugify
 	url = https://github.com/hrbrmstr/slugify
-	shallow = true
 	registered = false
 [submodule "vcr"]
 	path = vcr
 	url = https://github.com/ropensci/vcr
-	shallow = true
 	registered = false
 [submodule "xml2"]
 	path = xml2
 	url = https://github.com/r-lib/xml2
-	shallow = true
 	registered = false
