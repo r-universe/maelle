@@ -11,18 +11,6 @@
 [submodule "roblog"]
 	path = roblog
 	url = https://github.com/ropenscilabs/roblog
-[submodule "hugodown"]
-	path = hugodown
-	url = https://github.com/r-lib/hugodown
-	registered = false
-[submodule "slugify"]
-	path = slugify
-	url = https://github.com/hrbrmstr/slugify
-	registered = false
-[submodule "vcr"]
-	path = vcr
-	url = https://github.com/ropensci/vcr
-	registered = false
 [submodule "xml2"]
 	path = xml2
 	url = https://github.com/r-lib/xml2

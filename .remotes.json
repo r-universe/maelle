@@ -1,23 +1,5 @@
 [
   {
-    "package": "hugodown",
-    "url": "https://github.com/r-lib/hugodown",
-    "via": ["goodpress"],
-    "from": "goodpress"
-  },
-  {
-    "package": "slugify",
-    "url": "https://github.com/hrbrmstr/slugify",
-    "via": ["goodpress"],
-    "from": "goodpress"
-  },
-  {
-    "package": "vcr",
-    "url": "https://github.com/ropensci/vcr",
-    "via": ["goodpress"],
-    "from": "goodpress"
-  },
-  {
     "package": "xml2",
     "url": "https://github.com/r-lib/xml2",
     "via": ["cransays"],
