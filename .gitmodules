@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/maelle/maelle.r-universe.dev
 	branch = HEAD
-[submodule "glitter"]
-	path = glitter
-	url = https://github.com/lvaudor/glitter
 [submodule "cransays"]
 	path = cransays
 	url = https://github.com/lockedata/cransays
+[submodule "glitter"]
+	path = glitter
+	url = https://github.com/lvaudor/glitter
 [submodule "roblog"]
 	path = roblog
 	url = https://github.com/ropenscilabs/roblog
