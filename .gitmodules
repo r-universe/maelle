@@ -11,6 +11,10 @@
 [submodule "roblog"]
 	path = roblog
 	url = https://github.com/ropenscilabs/roblog
+[submodule "testthat"]
+	path = testthat
+	url = https://github.com/r-lib/testthat
+	registered = false
 [submodule "xml2"]
 	path = xml2
 	url = https://github.com/r-lib/xml2
