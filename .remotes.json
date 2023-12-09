@@ -4,11 +4,5 @@
     "url": "https://github.com/r-lib/testthat",
     "via": ["glitter"],
     "from": "glitter"
-  },
-  {
-    "package": "xml2",
-    "url": "https://github.com/r-lib/xml2",
-    "via": ["cransays"],
-    "from": "cransays"
   }
 ]
