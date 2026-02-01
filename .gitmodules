@@ -11,7 +11,3 @@
 [submodule "roblog"]
 	path = roblog
 	url = https://github.com/ropenscilabs/roblog
-[submodule "testthat"]
-	path = testthat
-	url = https://github.com/r-lib/testthat
-	registered = false
